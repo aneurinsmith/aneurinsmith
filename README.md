@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on a c++ logger library
-- 🌱 I’m currently learning xlib and win32 for cross-platform window creation
+- 🌱 I’m currently learning xlib, win32, and gtk3.0 for cross-platform window creation
 
 <!--
 **aneurinsmith/aneurinsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
