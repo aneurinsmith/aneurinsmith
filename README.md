@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a c++ cross platform window framework
+- 🔭 I’m currently working on a c++ cross platform window framework I've titled "Jamb"
 - 🌱 I’m currently learning xlib and win32 for cross-platform window creation
 
 <!--
