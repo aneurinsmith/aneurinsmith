@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a c++ cross platform window framework I've titled "Jamb"
-- 🌱 I’m currently learning xlib and win32 for cross-platform window creation
+- 🔭 I’m currently porting my third year double project to a perminent web server
+- 🌱 I’m currently learning python for creating ETL scripts
 - 📫 How to reach me: aneurinsmith@yahoo.com
 
 <!--
